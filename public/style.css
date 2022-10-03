@@ -1,0 +1,21 @@
+body {
+  background-color: #fdfbfb;
+  font-family: 'Roboto', sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  box-shadow: 0 2px 2px 0 #482657;
+  width: 60%;
+  padding: 15px;
+}
+
+
+#candidato {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
